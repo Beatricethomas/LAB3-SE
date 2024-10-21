@@ -4,6 +4,9 @@
 To develop the Railway Reservation System using Star UML tool.
 
 
+
+
+
 ### PROBLEM STATEMENT:
 1. An E-Ticket (Electronic ticket) is a paperless electronic document used for ticketing
 passengers, particularly in the commercial airline, railway industries.
@@ -19,6 +22,8 @@ phones.
 5. Finally, using E-Ticket is a more environmental friendly approach. The main purpose
 of the online bus ticket system is to provide another way for transnational customers to buy
 their tickets.
+
+
 
 
 
